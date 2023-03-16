@@ -2,6 +2,8 @@
 Demonstration of loops and file handling with functions and dictionaries
 Allow users to log in, manage users and view or assign tasks
 Additional privileges for the admin user
+Would like to revisit after the modules on classes and OOP; e.g., it 
+seems natural to have tasks, users, etc. as objects of a class
 '''
 
 
